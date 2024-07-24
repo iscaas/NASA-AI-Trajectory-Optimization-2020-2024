@@ -1,7 +1,7 @@
 # NASA-AI-Trajectory-Optimization-2020-2024
 [NASA-20-2020EPSCoR-0017: Artificial Intelligence Assisted Spacecraft Trajectory Optimization and Planning](https://people.cs.ksu.edu/~amunir/lab/NASA-SpacecraftTrajectoryOptimizationProject.html)
 
-Welcome to the [NASA AI Trajectory Optimization Project](https://people.cs.ksu.edu/~amunir/lab/NASA-SpacecraftTrajectoryOptimizationProject.html) repository. Here you will find links to our associated research papers.
+Welcome to the NASA AI Trajectory Optimization Project repository. Here you will find links to our associated research papers.
 
 ## Papers
 
