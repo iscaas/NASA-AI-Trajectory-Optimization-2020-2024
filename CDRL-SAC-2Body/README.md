@@ -178,11 +178,11 @@ bash train.sh
 ## Results
 CDRL based GTO to GEO transfer  | CDRL based Super-GTO to GEO transfer
 :-: | :-:
-<image src='/paper-outputs/fig7.PNG' width=500/> | <image src='/paper-outputs/fig13.PNG' width=500/>
-<image src='/paper-outputs/tab3.PNG' width=500/> | <image src='/paper-outputs/tab6.PNG' width=500/>
-<image src='/paper-outputs/fig5.PNG' width=500/> | <image src='/paper-outputs/fig10.PNG' width=500/>
-<image src='/paper-outputs/fig8.PNG' width=500/> | <image src='/paper-outputs/fig11.PNG' width=500/>
-<image src='/paper-outputs/fig6.PNG' width=500/> | <image src='/paper-outputs/fig12.PNG' width=500/>
+<image src='/CDRL-SAC-2Body/paper-outputs/fig7.PNG' width=500/> | <image src='/CDRL-SAC-2Body/paper-outputs/fig13.PNG' width=500/>
+<image src='/CDRL-SAC-2Body/paper-outputs/tab3.PNG' width=500/> | <image src='/CDRL-SAC-2Body/paper-outputs/tab6.PNG' width=500/>
+<image src='/CDRL-SAC-2Body/paper-outputs/fig5.PNG' width=500/> | <image src='/CDRL-SAC-2Body/paper-outputs/fig10.PNG' width=500/>
+<image src='/CDRL-SAC-2Body/paper-outputs/fig8.PNG' width=500/> | <image src='/CDRL-SAC-2Body/paper-outputs/fig11.PNG' width=500/>
+<image src='/CDRL-SAC-2Body/paper-outputs/fig6.PNG' width=500/> | <image src='/CDRL-SAC-2Body/paper-outputs/fig12.PNG' width=500/>
 
 ## Citation
 If you find this work beneficial to your research or project, I kindly request that you cite it:
