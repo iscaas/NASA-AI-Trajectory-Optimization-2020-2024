@@ -4,7 +4,7 @@ https://ieeexplore.ieee.org/abstract/document/10207710
 
 CDRL based GTO to GEO transfer  | CDRL based Super-GTO to GEO transfer
 :-: | :-:
-<![CDRL based GTO to GEO transfer](/paper-outputs/GTO-GEO.gif) > | <![CDRL based GTO to GEO transfer](/paper-outputs/SuperGTO-GEO.gif) >
+<![CDRL based GTO to GEO transfer](/CDRL-SAC-2Body/paper-outputs/GTO-GEO.gif) > | <![CDRL based GTO to GEO transfer](/CDRL-SAC-2Body/paper-outputs/SuperGTO-GEO.gif) >
 
 
 ## Files Description
