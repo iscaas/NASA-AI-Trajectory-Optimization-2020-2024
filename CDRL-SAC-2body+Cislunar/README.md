@@ -121,6 +121,8 @@ bash train.sh
 CDRL based GTO to GEO transfer  | CDRL based Super-GTO to GEO transfer
 :-: | :-:
 <image src='/CDRL-SAC-2body+Cislunar/paper-outputs/fig7.PNG' width=500/> | <image src='/CDRL-SAC-2body+Cislunar/paper-outputs/fig13.PNG' width=500/>
+<image src='/CDRL-SAC-2body+Cislunar/paper-outputs/tab3.PNG' width=500/> | <image src='/CDRL-SAC-2body+Cislunar/paper-outputs/tab6.PNG' width=500/>
+
 
 
 ## Citation
