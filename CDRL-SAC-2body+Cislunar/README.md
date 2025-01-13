@@ -120,6 +120,8 @@ bash train.sh
 ## Results
 CDRL based GTO to GEO transfer  | CDRL based Super-GTO to GEO transfer
 :-: | :-:
+
+<![CDRL based GTO to GEO transfer]('https://github.com/iscaas/NASA-AI-Trajectory-Optimization-2020-2024/edit/main/CDRL-SAC-2body%2BCislunar/paper-outputs/fig7.PNG')
 <image src='/paper-outputs/fig7.PNG' width=500/> | <image src='/paper-outputs/fig13.PNG' width=500/>
 <image src='/paper-outputs/tab3.PNG' width=500/> | <image src='/paper-outputs/tab6.PNG' width=500/>
 <image src='/paper-outputs/fig5.PNG' width=500/> | <image src='/paper-outputs/fig10.PNG' width=500/>
