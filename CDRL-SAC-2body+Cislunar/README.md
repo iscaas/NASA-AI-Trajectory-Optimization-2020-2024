@@ -130,3 +130,5 @@ CDRL based GTO to GEO transfer  | CDRL based Super-GTO to GEO transfer
 ## Citation
 If you find this work beneficial to your research or project, I kindly request that you cite it:
 
+Zaidi, Syed Muhammad Talha, Adrian Arustei, Arslan Munir, and Atri Dutta. "Automated Trajectory Planning: A Cascaded Deep Reinforcement Learning Approach for Low-Thrust Spacecraft Orbit-Raising." IEEE Aerospace and Electronic Systems Magazine (2025).
+
