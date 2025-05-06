@@ -5,7 +5,7 @@ The focus of the paper is machine-learning-assisted computation of low-thrust or
 
 ## Citation
 If you find this work beneficial to your research or project, I kindly request that you cite it:
-'''
+```
 @inproceedings{dutta2024machine,
   title={Machine Learning Assisted Low-Thrust Orbit-Raising: A Comparative Assessment of a Sequential Algorithm and Deep Reinforcement Learning Approach},
   author={Dutta, Atri and Arustei, Adrian and Chace, Matthew and Chadalavada, Pardhasai and Steck, James and Zaidi, Talha and Munir, Arslan},
@@ -13,4 +13,4 @@ If you find this work beneficial to your research or project, I kindly request t
   pages={1669},
   year={2024}
 }
-'''
+```
