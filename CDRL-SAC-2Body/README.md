@@ -4,7 +4,7 @@ https://ieeexplore.ieee.org/abstract/document/10207710
 
 CDRL based GTO to GEO transfer  | CDRL based Super-GTO to GEO transfer
 :-: | :-:
-<![CDRL based GTO to GEO transfer](/paper-outputs/GTO-GEO.gif) > | <![CDRL based GTO to GEO transfer](/paper-outputs/SuperGTO-GEO.gif) >
+<![CDRL based GTO to GEO transfer](/CDRL-SAC-2Body/paper-outputs/GTO-GEO.gif) > | <![CDRL based GTO to GEO transfer](/CDRL-SAC-2Body/paper-outputs/SuperGTO-GEO.gif) >
 
 
 ## Files Description
@@ -178,11 +178,11 @@ bash train.sh
 ## Results
 CDRL based GTO to GEO transfer  | CDRL based Super-GTO to GEO transfer
 :-: | :-:
-<image src='/paper-outputs/fig7.PNG' width=500/> | <image src='/paper-outputs/fig13.PNG' width=500/>
-<image src='/paper-outputs/tab3.PNG' width=500/> | <image src='/paper-outputs/tab6.PNG' width=500/>
-<image src='/paper-outputs/fig5.PNG' width=500/> | <image src='/paper-outputs/fig10.PNG' width=500/>
-<image src='/paper-outputs/fig8.PNG' width=500/> | <image src='/paper-outputs/fig11.PNG' width=500/>
-<image src='/paper-outputs/fig6.PNG' width=500/> | <image src='/paper-outputs/fig12.PNG' width=500/>
+<image src='/CDRL-SAC-2Body/paper-outputs/fig7.PNG' width=500/> | <image src='/CDRL-SAC-2Body/paper-outputs/fig13.PNG' width=500/>
+<image src='/CDRL-SAC-2Body/paper-outputs/tab3.PNG' width=500/> | <image src='/CDRL-SAC-2Body/paper-outputs/tab6.PNG' width=500/>
+<image src='/CDRL-SAC-2Body/paper-outputs/fig5.PNG' width=500/> | <image src='/CDRL-SAC-2Body/paper-outputs/fig10.PNG' width=500/>
+<image src='/CDRL-SAC-2Body/paper-outputs/fig8.PNG' width=500/> | <image src='/CDRL-SAC-2Body/paper-outputs/fig11.PNG' width=500/>
+<image src='/CDRL-SAC-2Body/paper-outputs/fig6.PNG' width=500/> | <image src='/CDRL-SAC-2Body/paper-outputs/fig12.PNG' width=500/>
 
 ## Citation
 If you find this work beneficial to your research or project, I kindly request that you cite it:
