@@ -11,3 +11,10 @@ Welcome to the NASA AI Trajectory Optimization Project repository. Here you will
 - Paper 4: [Single-Agent Attention Actor-Critic (SA3C): A Novel Solution for Low-Thrust Spacecraft Trajectory Optimization](https://github.com/iscaas/NASA-AI-Trajectory-Optimization-2020-2024/tree/main/SA3C-2body+Cislunar)
 
 Each link directs you to the repository containing the full content of the paper. 
+
+
+# 
+
+This repository is managed by [@talhazaidi13](https://github.com/talhazaidi13) from ISCAAS Research Lab.
+
+Contributions to this repository are made by the lab team, with key management and oversight by [@talhazaidi13](https://github.com/talhazaidi13).
