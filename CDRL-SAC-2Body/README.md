@@ -7,6 +7,11 @@ CDRL based GTO to GEO transfer  | CDRL based Super-GTO to GEO transfer
 <![CDRL based GTO to GEO transfer](/CDRL-SAC-2Body/paper-outputs/GTO-GEO.gif) > | <![CDRL based GTO to GEO transfer](/CDRL-SAC-2Body/paper-outputs/SuperGTO-GEO.gif) >
 
 
+# 
+This repository is managed by [@talhazaidi13](https://github.com/talhazaidi13) from ISCAAS Research Lab.
+Contributions to this repository are made by the lab team, with key management and oversight by [@talhazaidi13](https://github.com/talhazaidi13).
+
+
 ## Files Description
 
 - `config.py`: Contains the configurations or initial parameters to run the code.
