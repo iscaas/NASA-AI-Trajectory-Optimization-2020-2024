@@ -7,6 +7,10 @@ CDRL based GTO to GEO transfer
 ## Appendix
 For comprehensive implementation details including all modeling assumptions and algorithm parameter settings, please check the attached Appendix.pdf in files. 
 
+## Contributions
+This repository is managed by [@talhazaidi13](https://github.com/talhazaidi13) from ISCAAS Research Lab.
+Contributions to this repository are made by the lab team, with key management and oversight by [@talhazaidi13](https://github.com/talhazaidi13).
+
 ## Files Description
 
 - `config.py`: Contains the configurations or initial parameters to run the code.
