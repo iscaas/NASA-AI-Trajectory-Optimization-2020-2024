@@ -13,6 +13,10 @@ SA3C based GTO to GEO transfer  | SA3C based Super-GTO to GEO transfer
 :-: | :-:
 ![SA3C based GTO to GEO transfer](/SA3C-2body+Cislunar/readmeplots/GTO-GEO.gif)  | ![SA3C based S-GTO to GEO transfer](/SA3C-2body+Cislunar/readmeplots/SuperGTO-GEO.gif) 
 
+## Contributions
+This repository is managed by [@talhazaidi13](https://github.com/talhazaidi13) from ISCAAS Research Lab.
+Contributions to this repository are made by the lab team, with key management and oversight by [@talhazaidi13](https://github.com/talhazaidi13).
+
 ## Appendix
 For comprehensive implementation details including all modeling assumptions and algorithm parameter settings, please check the attached Appendix.pdf in files. 
 
